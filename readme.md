@@ -23,4 +23,4 @@ A simple Automation Testing to check user authentication using Selenium Web driv
 ```
 ## Test Project Link
 
-- [TravelGuru_Login]("https://travel-guru-mihr.web.app/login")
+- [@TravelGuru_Login]("https://travel-guru-mihr.web.app/login")
